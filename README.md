@@ -3,7 +3,7 @@ Team Members:
 * Hisham Baobaid
 * Neelkanth Shitolay
 
-* 1. **Testing the "message" feature**:
+1. **Testing the "message" feature**:
 Yes, unit tests are suitable for testing the "message" feature of a messaging application. In this case, they will verify that the message creation, sending, and receiving functionalities work correctly. They also ensure that messages are properly formatted, delivered to the intended recipient, and displayed correctly in the user interface. Unit tests allow for isolated testing of this specific feature without relying on the entire system's functionality, making them efficient and effective for ensuring the reliability of the messaging feature.
 
 2. **Testing the "max message length" feature**:
